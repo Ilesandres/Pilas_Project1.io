@@ -1,10 +1,10 @@
 body{
     width: 500px;
-    margin: auto;  /* Centra el cuerpo horizontalmente */
-    border: 7px dashed rgb(72, 72, 72);  /* Establece un borde punteado de 10px y color rojo */
-    padding: 20px;  /* Agrega un espacio interno al cuerpo según sea necesario */
-    box-sizing: border-box;  /* Incluye el ancho y alto del borde en el tamaño total del elemento */
-    text-align: center;  /* Centra el texto dentro del cuerpo */
+    margin: auto;
+    border: 7px dashed rgb(72, 72, 72);  
+    padding: 20px;  
+    box-sizing: border-box; 
+    text-align: center;  
     
 }
 
